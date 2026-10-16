@@ -1,0 +1,11 @@
+{
+  "org": "sunpy",
+  "repo": "sunpy-sphinx-theme",
+  "versions": [
+    {
+      "commit": "8578aae4bb1f5d8b14ed0fb13ac994339a722618",
+      "tag": "",
+      "parsed_at": "2026-10-16T02:43:30.777264+00:00"
+    }
+  ]
+}
